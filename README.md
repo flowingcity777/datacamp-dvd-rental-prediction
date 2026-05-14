@@ -61,6 +61,7 @@ Predict the number of days a customer rents a DVD while minimizing prediction er
 dvd-rental-regression/
 │
 ├── rental_regression.ipynb
+├── rental_regression.py
 ├── README.md
 ├── requirements.txt
 
