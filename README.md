@@ -8,6 +8,10 @@ This project uses regression models to predict DVD rental duration based on cust
 
 The goal is to build a regression model achieving a Mean Squared Error (MSE) below 3 on the test dataset.
 
+## Dataset Notice
+
+The original dataset (`rental_info.csv`) was provided through a DataCamp educational project and is not included in this repository.
+
 ## Dataset Features
 
 The dataset includes:
@@ -56,10 +60,9 @@ Predict the number of days a customer rents a DVD while minimizing prediction er
 
 dvd-rental-regression/
 │
-├── rental_regression.py
+├── rental_regression.ipynb
 ├── README.md
 ├── requirements.txt
-└── rental_info.csv
 
 ## Author
 
